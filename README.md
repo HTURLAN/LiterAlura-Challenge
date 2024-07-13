@@ -33,4 +33,4 @@ _Mensaje de bienvenida y menu principal._
 * [Java JDK](https://www.oracle.com/br/java/technologies/downloads/) - Java JDK: versión 17
 
 ## Autores ✒️
-* **Ricardo Zamora Picazo** - [Ricardo ZP](https://github.com/pzric)
+* **Hernan Turlan** - (https://github.com/HTURLN)
